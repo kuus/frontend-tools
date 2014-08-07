@@ -18,7 +18,7 @@ Front-end tools
 `http://gruntjs.com/` [&#10097;](http://gruntjs.com/)
 
 `https://raw.githubusercontent.com/kuus/frontend-tools/master/images/grunt.png`
-![Gulp](https://raw.githubusercontent.com/kuus/frontend-tools/master/images/grunt.png)
+![Grunt](https://raw.githubusercontent.com/kuus/frontend-tools/master/images/grunt.png)
 
 ###Bower
 
@@ -81,25 +81,25 @@ Front-end tools
 `http://jquery.com/` [&#10097;](http://jquery.com/)
 
 `https://raw.githubusercontent.com/kuus/frontend-tools/master/images/jquery.png`
-![Font Awesome](https://raw.githubusercontent.com/kuus/frontend-tools/master/images/jquery.png)
+![jQuery](https://raw.githubusercontent.com/kuus/frontend-tools/master/images/jquery.png)
 
 ###jQuery UI
 
 `http://jqueryui.com/` [&#10097;](http://jqueryui.com/)
 
 `https://raw.githubusercontent.com/kuus/frontend-tools/master/images/jquery-ui.png`
-![Font Awesome](https://raw.githubusercontent.com/kuus/frontend-tools/master/images/jquery-ui.png)
+![jQuery UI](https://raw.githubusercontent.com/kuus/frontend-tools/master/images/jquery-ui.png)
 
 ###CSS3
 
 `https://developer.mozilla.org/en-US/docs/Web/CSS/CSS3` [&#10097;](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS3)
 
 `https://raw.githubusercontent.com/kuus/frontend-tools/master/images/css3.png`
-![Font Awesome](https://raw.githubusercontent.com/kuus/frontend-tools/master/images/css3.png)
+![CSS3](https://raw.githubusercontent.com/kuus/frontend-tools/master/images/css3.png)
 
 ###HTML5
 
 `http://www.w3.org/TR/html5/` [&#10097;](http://www.w3.org/TR/html5/)
 
 `https://raw.githubusercontent.com/kuus/frontend-tools/master/images/html5.png`
-![Font Awesome](https://raw.githubusercontent.com/kuus/frontend-tools/master/images/html5.png)
+![HTML5](https://raw.githubusercontent.com/kuus/frontend-tools/master/images/html5.png)
